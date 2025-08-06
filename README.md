@@ -10,6 +10,10 @@ It also includes a `requirements.txt` file to install the necessary libraries.
 ---
 
 ## Quick Start (Mac)
+### Run these commands in the code editor terminal where your project folder is opened.
+This is the easier way.  
+
+Alternatively, you can run the commands in the Mac terminal, but you must first navigate to the project directory using the `cd` command like cd /path/to/your/project
 
 ```bash
 # 1. Create a virtual environment
