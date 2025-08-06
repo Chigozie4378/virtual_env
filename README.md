@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Python Virtual Environment Example
 
 This repository demonstrates how a Python virtual environment looks when set up for a project.  
@@ -33,5 +33,4 @@ pip freeze > requirements.txt
 # 7. Deactivate the virtual environment
 deactivate
 =======
-# virtual_env
->>>>>>> 6659e631387c96aefa2e70886a8850faccba50aa
+
