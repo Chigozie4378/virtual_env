@@ -32,5 +32,5 @@ pip freeze > requirements.txt
 
 # 7. Deactivate the virtual environment
 deactivate
-=======
+
 
